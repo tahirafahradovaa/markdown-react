@@ -1,0 +1,25 @@
+textarea, .showarea{
+    color: white;
+    font-size: 20px;
+    width: 100vw;
+    background-color:rgb(22,27,34);
+}
+.showarea{
+    width: 100vw;
+    height: 100vh;
+    margin-top: -28px;
+}
+li{
+    border-radius: 15px;
+    background-color: rgb(22,27,34);
+    display: inline-block;
+    font-weight: 700;
+    text-decoration: none;
+    margin: 10px 10px 10px 0;
+    font-size: 20px;
+    padding: 20px;
+}
+.nav{
+    background-color:rgb(13,17,23);
+    width: 100vw;
+}
